@@ -12,7 +12,5 @@ I am a full-time economist working at The Brazilian Development Bank. I am inter
 
 ![Image of me]({{ site.baseurl }}/images/yiechen.jpeg)
 
-This website is based on Type on Strap, which is also based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+This website is based on Type on Strap, which in turn is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License. Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
 
