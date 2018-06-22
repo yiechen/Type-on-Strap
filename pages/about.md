@@ -8,6 +8,10 @@ tags: [About, Test]
 
 ![Me]({{ site.baseurl }}/images/yiechen.jpeg)
 
+<div class="prof-pic">	
+<img src="../images/yiechen.jpg" class="img-circle" width="250" height="250">	
+</div>
+
 I am a full-time economist working at The Brazilian Development Bank. I am interested in how infrastructure interacts with the society, nature and institutions, and in problem solving. I am also interested in urbanism and demography, such as how cities fail to provide for their citizens and what should be planned or have been done. I enjoy visualizing and analyzing data, learning programming, and watching sports.
 
 This website is based on Type on Strap, which is also based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
