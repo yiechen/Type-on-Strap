@@ -9,6 +9,8 @@ tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
 
+Data loss is a very painful experience that unfortunately many of us go through at some point of our lives. In my workshops, lectures and this website, I spend quite a bit of time advocating the need for a well-established workflow that incorporates solid backup strategies to prevent data loss. And during this process, I came across many different backup routines practiced by other photographers, some of which I found to be downright scary. You have probably heard of horror stories of professional photographers losing their life’s work, or wedding photographers losing images of weddings that they were not able to deliver to their clients yet. It sure happens, and it usually happens at the worst possible time too! It is one thing when you lose your personal data / photos and totally another when you are dealing with a client who paid you money. I cannot imagine how one could even handle a situation with lost wedding photos, as it would be impossible to recreate those precious moments. Sadly, for many of us, it seems like data loss has to take place in order for us to seriously consider a solid backup strategy and workflow. But it does not have to! In this article, I will walk you through two scenarios for establishing a good photography backup workflow: a low-cost and painless workflow for hobbyists, and a much more serious workflow for enthusiasts and professionals. For the second scenario, I will reveal my own backup strategy.
+
 ## On Backup Workflow 
 
 Tips from: <https://photographylife.com/photography-backup-workflow>
@@ -133,79 +135,61 @@ Videos:
 
 ## File Structure
 
-```{r twee_function, echo=FALSE}
-
-#from: https://gist.github.com/jennybc/2bf1dbe6eb1f261dfe60
-
-## quick-and-dirty ersatz Unix tree command in R
-## inspired by this one-liner:
-## ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
-## found here (among many other places):
-## http://serverfault.com/questions/143954/how-to-generate-an-ascii-representation-of-a-unix-file-hierarchy
-
-twee <- function(path = getwd(), level = Inf) {
-  
-  fad <-
-    list.files(path = path, recursive = TRUE,no.. = TRUE, include.dirs = TRUE)
-
-  fad_split_up <- strsplit(fad, "/")
-
-  too_deep <- lapply(fad_split_up, length) > level
-  fad_split_up[too_deep] <- NULL
-  
-  jfun <- function(x) {
-    n <- length(x)
-    if(n > 1)
-      x[n - 1] <- "|__"
-    if(n > 2)
-      x[1:(n - 2)] <- "   "
-    x <- if(n == 1) c("-- ", x) else c("   ", x)
-    x
-  }
-  fad_subbed_out <- lapply(fad_split_up, jfun)
-  
-  cat(unlist(lapply(fad_subbed_out, paste, collapse = "")), sep = "\n")
-}
-
-twee("data/datapost")
-
-# Media Volume XX
-#         YYYY
-#                 YYYY.MM.Location/Event
-#                                 DD
-#                                         Source
-#                                                 DSLR
-#                                                         Photos
-#                                                                 1. RAW/Original
-#                                                                 2. Master
-#                                                                 3. Layered_Master
-#                                                                 3.1. Panorama / HDR / Timelapse
-#                                                                 4. Final Edits (web / print)
-#                                                         Videos
-#                                                                 1. Original
-#                                                                 2. Edits
-#                                                 Drone
-#                                                         Photos
-#                                                                 1. Original
-#                                                                 2. Edits
-#                                                         Videos
-#                                                                 1. Original
-#                                                                 2. Edits
-#                                                 Iphone
-#                                                         Photos
-#                                                                 1. Original
-#                                                                 2. Edits
-#                                                         Videos
-#                                                                 1. Original
-#                                                                 2. Edits
-#                 YYYY.MM.Project_Name    (Photos)
-#                                 2. Master
-#                                 3. Layered_Master / Project_Type_Selection
-#                                 4. Final Edits
-#                 YYYY.MM.Project_Name    (Videos)
-#                                 2. Selected_Originals
-#                                 3. Final Edits
-
+```bash
+Media Volume XX
+├── _draft	               # To store your drafts, they won't be published on your site
+├── _includes	               # theme includes
+├── _layouts                   # theme layouts (see below for details)
+├── _portfolio	               # collection of article to be populated in the portfolio page
+├── _posts                     # Blog posts
+├── _sass                      # Sass partials 
+├── YYYY
+|  ├── YYYY.MM.Location/Event	               # theme javascript, Katex, jquery, bootstrap, jekyll search, 
+|  |  ├── DD
+|  |  |  ├── Source
+|  |  |  |  ├── DSLR
+|  |  |  |  |  ├── Photos
+|  |  |  |  |  |  ├── 1. RAW/Original
+|  |  |  |  |  |  ├── 2. Master
+|  |  |  |  |  |  ├── 3. Layered Master
+|  |  |  |  |  |  ├── 3.1 Panorama / HDR / Timelapse
+|  |  |  |  |  |  └── 4. Final Edits
+|  |  |  |  |  └── Videos
+|  |  |  |  |     ├── 1. Original
+|  |  |  |  |     └── 2. Edits
+|  |  |  |  ├── Drone
+|  |  |  |  |  ├── Photos
+|  |  |  |  |  |  ├── 1. Original
+|  |  |  |  |  |  └── 2. Edits
+|  |  |  |  |  └── Videos
+|  |  |  |  |     ├── 1. Original
+|  |  |  |  |     └── 2. Edits
+|  |  |  |  └── iPhone
+|  |  |  |  |  ├── Photos
+|  |  |  |  |  |  ├── 1. Original
+|  |  |  |  |  |  └── 2. Edits
+|  |  |  |  |  └── Videos
+|  |  |  |  |     ├── 1. Original
+|  |  |  |  |     └── 2. Edits
+|  ├── YYYY.MM.Project_Name    (Photos)
+|  |  ├── 2. Master
+|  |  ├── 3. Layered Master / Project_Type_Selection
+|  |  └── 4. Final Edits
+|  ├── YYYY.MM.Project_Name    (Videos)
+|  |  ├── 2. Selected_Originals
+|  |  └── 3. Final Edits
+|  ├── css                     # isolated Bootstrap, font-awesome, katex and main css
+|  ├── fonts		       # Font-Awesome, Glyphicon, and other fonts
+|  └── img		       # Images used for the template
+├── pages
+|   ├── 404.md		       # To be displayed when url is wrong
+|   ├── about.md               # About example page
+|   ├── gallery.md              # Gallery page for your photos
+|   ├── portfolio.md	         # Portfolio page for your projects
+|   ├── search.html	       # Search page
+|   └── search.json            # Specify the search target (page, post, collection)
+├── _config.yml                # sample configuration
+└── index.html                 # sample home page (blog page paginated)
 ```
 
 ### File Naming:
