@@ -4,7 +4,6 @@ author: "YieChen Yiu"
 date: "8 June 2018"
 output: 
   html_document:
-    highlight: zenburn
     toc: true
     toc_depth: 3
     toc_float:
