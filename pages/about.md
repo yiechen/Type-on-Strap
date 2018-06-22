@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
 ---
 
-![Me](https://raw.githubusercontent.com/yiechen/yiechen.github.io/master/images/yiechen.jpeg)
+![Me](https://github.com/yiechen/yiechen.github.io/tree/master/images/yiechen.jpeg)
 
 <div class="prof-pic">	
 <img src="../images/yiechen.jpg" class="img-circle" width="250" height="250">	
