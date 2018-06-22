@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>Hi, I´m YieChen <hr> <br> Economist / Tech Enthusiast / Traveler</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+  header_text_feature_image: assets/img/pexels/search-map.jpeg
   footer_text: >
    <p class="copyright text-muted"> Ⓒ YieChen Yiu • 2018 • </p> Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
