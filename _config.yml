@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/yiechen.github.io"
+baseurl: ""
 url: "http://yiechen.github.io"
 title: YieChen's Website # site's title
 description: "A website with blog posts and pages" # used by search engines
@@ -15,10 +15,10 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Hi, I´m YieChen <br> Economist / Tech Enthusiast / Traveler</p>
+     <p>Hi, I´m YieChen <hr> <br> Economist / Tech Enthusiast / Traveler</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   <p class="copyright text-muted"> Ⓒ YieChen Yiu • 2018 <hr></p> Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   <p class="copyright text-muted"> Ⓒ YieChen Yiu • 2018 • </p> Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
