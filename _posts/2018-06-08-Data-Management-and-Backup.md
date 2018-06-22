@@ -7,14 +7,6 @@ tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-```{r image, echo=FALSE, fig.cap="", out.width = '90%'}
-knitr::include_graphics("images/BP_B_BO_ingest.jpg")
-```
-
 ## On Backup Workflow 
 
 Tips from: <https://photographylife.com/photography-backup-workflow>
