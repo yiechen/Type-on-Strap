@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Data Management and Backup 2018
-feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
 
 Data loss is a very painful experience that unfortunately many of us go through at some point of our lives. 
 
-
+<!--more-->
 I spend quite a bit of time advocating the need for a well-established workflow that incorporates solid backup strategies to prevent data loss. And during this process, I came across many different backup routines practiced by others, some of which I found to be downright scary. You have probably heard of horror stories of professional photographers losing their life’s work, or wedding photographers losing images of weddings that they were not able to deliver to their clients yet.
 
 
