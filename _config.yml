@@ -9,7 +9,7 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: YieChen's Blog # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/MO-supp-Y.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
