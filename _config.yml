@@ -18,7 +18,7 @@ theme_settings:
      <p>Hi, I´m YieChen <hr> <br> Economist / Tech Enthusiast / Traveler</p>
   header_text_feature_image: assets/img/pexels/search-map.jpeg
   footer_text: >
-   <p class="copyright text-muted"> Ⓒ YieChen Yiu • 2018 • </p> Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   <p class="copyright text-muted"> COPYRIGHT Ⓒ YieChen Yiu • 2018 • All rights reserved. </p> Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
