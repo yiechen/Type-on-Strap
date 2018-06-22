@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Data Management and Backup 2018
-author: "YieChen Yiu"
-date: "8 June 2018"
+author: YieChen Yiu
+date: 8 June 2018
+feature-img: "assets/img/pexels/desk-messy.jpeg"
+thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
