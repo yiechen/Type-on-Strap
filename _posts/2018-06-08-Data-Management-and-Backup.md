@@ -1,14 +1,10 @@
 ---
-title: "Data Management and Backup 2018"
+layout: post
+title: Data Management and Backup 2018
 author: "YieChen Yiu"
 date: "8 June 2018"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 3
-    toc_float:
-      collapsed: true
-      smooth_scroll: true
+tags: [Test, Lorem, Ipsum]
+excerpt_separator: <!--more-->
 ---
 
 ```{r setup, include=FALSE}
