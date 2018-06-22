@@ -1,7 +1,7 @@
 --- 
 layout: page
 title : Travel 
-permalink: /travel/
+permalink: /portfolio/
 subtitle: "Places I have been" 
 feature-img: "assets/img/pexels/search-map.jpeg"
 ---
