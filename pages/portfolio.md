@@ -1,9 +1,9 @@
 --- 
 layout: page
-title : Portfolio 
-permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
+title : Travel 
+permalink: /travel/
+subtitle: "Places I have been" 
+feature-img: "assets/img/pexels/search-map.jpeg"
 ---
 
-{% include portfolio.html %}
+{% include travel.html %}
