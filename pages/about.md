@@ -8,7 +8,7 @@ tags: [About, Test]
 
 I am a full-time economist working at The Brazilian Development Bank. I am interested in how infrastructure interacts with the society, nature and institutions, and in problem solving. I am also interested in urbanism and demography, such as how cities fail to provide for their citizens and what should be planned or have been done. I enjoy visualizing and analyzing data, learning programming, and watching sports.
 
-![Me](https://github.com/yiechen/yiechen.github.io/tree/master/images/yiechen.jpeg)
+![Me](https://github.com/yiechen/yiechen.github.io/raw/master/images/yiechen.jpg)
 
 <div class="prof-pic">	
 <img src="../images/yiechen.jpg" class="img-circle" width="250" height="250">	
