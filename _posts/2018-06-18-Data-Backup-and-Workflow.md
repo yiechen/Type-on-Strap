@@ -2,7 +2,7 @@
 layout: post
 title: Data Management and Backup 2018
 feature-img: "assets/img/pexels/desk-nerd.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
+thumbnail: "assets/img/thumbnails/desk-nerd.jpeg"
 tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
