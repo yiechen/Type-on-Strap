@@ -13,7 +13,11 @@ I work as a full-time economist. There I am interested in how renewable energy p
 
 In my spare time I enjoy visualizing and analyzing data, learning photography skills, and watching sports.
 
+This blog serves mainly as a resource to myself (so I can refer to how I did something), but also aims to teach others. Here I will also showcase some of my photography works and some kind of travel journals and plans. Finally, I will eventually post whatever contents that keep me motivate. And some rants, though I will keep it to as few as possible because:
+
 <iframe width="854" height="480" src="https://www.youtube.com/embed/L9VBpbnXhWk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+<hr>
 
 This website is based on Type on Strap, which in turn is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License. Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
 
