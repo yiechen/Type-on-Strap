@@ -17,7 +17,6 @@ This blog serves mainly as a resource to myself (so I can refer to how I did som
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/L9VBpbnXhWk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
-{% include cv.html %}
 <hr>
 
 This website is based on Type on Strap, which in turn is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License. Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
