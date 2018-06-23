@@ -11,7 +11,7 @@ theme_settings:
   title: YieChen's Blog # blog's title
   avatar: assets/img/MO-supp-Y.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: 7998eb85e92bdd496408f332019c0e22 # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
