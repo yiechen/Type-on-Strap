@@ -7,7 +7,7 @@ feature-img: "assets/img/pexels/book-coffee.jpeg"
 tags: [About, Test]
 ---
 
-![My helpful self]({{ "/images/yiechen.jpg" | absolute_url }})
+![My helpful self]({{ "/assets/img/thumbnails/yiechen-circle-resized.jpg" | absolute_url }})
 
 I work as a full-time economist. There I am interested in how renewable energy projects interact with its surrounding landscape and communities. I am also interested in the future of the cities, such as how cities should develop and grow.
 
