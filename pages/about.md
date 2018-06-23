@@ -15,7 +15,7 @@ In my spare time I enjoy visualizing and analyzing data, learning photography sk
 
 This blog serves mainly as a resource to myself (so I can refer to how I did something), but also aims to teach others. Here I will also showcase some of my photography works and some kind of travel journals and plans. Finally, I will eventually post whatever contents that keep me motivate. And some rants, though I will keep it to as few as possible because:
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/L9VBpbnXhWk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="400" src="https://www.youtube.com/embed/L9VBpbnXhWk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 #### Skills
 <hr />
