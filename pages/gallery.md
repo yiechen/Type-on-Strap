@@ -3,6 +3,7 @@ layout: page
 title: Gallery
 subtitle: From the pexels folder
 permalink: /gallery/
+feature-img: "assets/img/pexels/camera-vintage-large.jpeg"
 gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
 ---
