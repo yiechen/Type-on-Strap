@@ -7,6 +7,7 @@ tags: [About, Test]
 ---
 
 <img src="../images/yiechen.jpg" class="rounded-circle" width="250" height="250">	
+![My helpful self]({{ "/images/yiechen.jpg" | absolute_url }})
 
 I work as a full-time economist. There I am interested in how renewable energy projects interact with its surrounding landscape and communities. I am also interested in the future of the cities, such as how cities should develop and grow.
 
