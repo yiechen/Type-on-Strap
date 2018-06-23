@@ -3,7 +3,7 @@ layout: page
 title : Travel 
 permalink: /portfolio/
 subtitle: "Places I have been" 
-feature-img: "assets/img/pexels/search-map.jpeg"
+feature-img: "assets/img/bar-harbour.jpeg"
 ---
 
 {% include portfolio.html %}
