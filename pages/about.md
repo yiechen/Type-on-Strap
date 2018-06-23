@@ -9,11 +9,11 @@ tags: [About, Skills]
 
 ![My helpful self]({{ "/assets/img/thumbnails/yiechen-circle-resized.jpg" | absolute_url }})
 
-I work as a full-time economist. There I am interested in how renewable energy projects interact with its surrounding landscape and communities. I am also interested in the future of the cities, such as how cities should develop and grow.
+I work as a full-time economist at The Brazilian Development Bank. Nowadays I am attached to renewable energy projects and I am interested in how they interact with its surrounding landscape and communities. I am also interested in the future of the cities, such as how cities should develop and grow.
 
 In my spare time I enjoy visualizing and analyzing data, learning photography skills, and watching sports.
 
-This blog serves mainly as a resource to myself (so I can refer to how I did something), but also aims to teach others. Here I will also showcase some of my photography works and some kind of travel journals and plans. Finally, I will eventually post whatever contents that keep me motivate. And some rants, though I will keep it to as few as possible because:
+This blog serves mainly as a resource to myself (so I can refer to how I did something), but also aims to help others. Here I will also showcase some of my photography works and sort of travel journals and plans. Finally,there will be posts of whatever I find interesting to share. And eventually some rants, though I will keep it to a minimum because we need to hustle.
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/L9VBpbnXhWk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
