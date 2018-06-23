@@ -8,7 +8,9 @@ tags: [About, Test]
 
 <img src="../images/yiechen.jpg" class="rounded-circle" width="250" height="250">	
 
-I am a full-time economist working at The Brazilian Development Bank. I am interested in how infrastructure interacts with the society, nature and institutions, and in problem solving. I am also interested in urbanism and demography, such as how cities fail to provide for their citizens and what should be planned or have been done. I enjoy visualizing and analyzing data, learning programming, and watching sports.
+I work as a full-time economist. There I am interested in how renewable energy projects interact with its surrounding landscape and communities. I am also interested in the future of the cities, such as how cities should develop and grow.
+
+In my spare time I enjoy visualizing and analyzing data, learning photography skills, and watching sports.
 
 This website is based on Type on Strap, which in turn is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License. Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
 
