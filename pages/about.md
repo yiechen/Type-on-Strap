@@ -13,7 +13,7 @@ tags: [About, Skills]
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <a href="https://en.wikipedia.org/wiki/Project_finance"><strong>project analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously worked as a <strong>data analyst</strong> and <strong>economics consultant</strong> also at BNDES.
+Currently a <a href="https://en.wikipedia.org/wiki/Project_finance"><strong>structured finance analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously worked as a <strong>data scientist/analyst</strong> and <strong>economic consultant</strong> also at BNDES.
 </p>
 
 <p class="about-text">
@@ -38,10 +38,12 @@ The <strong><a href="/projects">projects</a></strong> page is a nice place to se
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-Grew up in <i>Rio de Janeiro, Brazil</i>; spent many weeks (at times) in other countries backpacking (still less that I wanted); still living in <i>Rio</i> as of 2018.
+Grew up in <i>Rio de Janeiro, Brazil</i>; spent many weeks (at times) in other countries backpacking; still living in <i>Rio</i> as of 2018.
 </p>
 
 <hr>
+<strong>Website</strong>
+<br>
 
 <p class="about-text">
 Nowadays I am attached to renewable energy projects and I am interested in how they interact with their surrounding landscape and communities. I am also interested in the future of the cities, such as how cities should develop and grow.
