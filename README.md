@@ -2,9 +2,9 @@
 
 This is the github repo for my blog, [yiechen.github.io](yiechen.github.io).
 
-The website was built using a clone of [type-on-strap](https://sylhare.github.io/Type-on-Strap/)
+The website was built using a clone of [type-on-strap](https://sylhare.github.io/Type-on-Strap/) and had some modifications from other sources (references will be noticed in a proper post).
 
-# Type on Strap 
+## Type on Strap 
 
 [![Build Status](https://travis-ci.org/Sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/Sylhare/Type-on-Strap) 
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
