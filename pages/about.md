@@ -13,17 +13,17 @@ tags: [About, Skills]
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <a href="/shiny"><strong>project analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously worked as a <strong>data analyst</strong> and <strong>economics consultant</strong> also at BNDES.
+Currently a <a href="https://en.wikipedia.org/wiki/Project_finance"><strong>project analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously worked as a <strong>data analyst</strong> and <strong>economics consultant</strong> also at BNDES.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my MSc in <strong>Quantitative Methods</strong> from the Universidade Federal Fluminense and my Bachelor of <strong>Economics</strong> from the Pontifical Catholic University of Rio de Janeiro.
+Obtained my MSc in <strong>Quantitative Methods</strong> from the Universidade Federal Fluminense and my Bachelor of <strong>Economic Sciences</strong> from the Pontifical Catholic University of Rio de Janeiro.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I enjoy writing <strong>useful & reusable software tools</strong> to help others &mdash; check out <a href="/projects">my projects</a>. In the past several years I've become an moderately-experienced R useR and an enthusiast in R-Shiny.
+I enjoy writing <strong>useful & reusable software tools</strong> to help others &mdash; check out by searching for the tag: projects</a>. In the past several years I've become an moderately-experienced R useR and an enthusiast in R-Shiny.
 </p>
 
 <p class="about-text">
@@ -33,7 +33,7 @@ I'm addicted to sports data, <strong>travelling</strong> at any given (and non-g
 
 <p class="about-text">
 <span class="fa fa-file-text-o about-icon"></span>
-The <strong><a href="/projects">projects</a></strong> page is a nice place to see some of my work. Actually, it will be... I am still working on it! ;)
+The <strong><a href="/projects">projects</a></strong> page is a nice place to see some of my work. Actually, it will be... I am still working on it! For now, look out for the projects tag ;)
 </p>
 
 <p class="about-text">
