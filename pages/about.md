@@ -41,16 +41,16 @@ The <strong><a href="/projects">projects</a></strong> page is a nice place to se
 Grew up in <i>Rio de Janeiro, Brazil</i>; spent many weeks (at times) in other countries backpacking (still less that I wanted); still living in <i>Rio</i> as of 2018.
 </p>
 
-<br>
 <hr>
 
 Nowadays I am attached to renewable energy projects and I am interested in how they interact with their surrounding landscape and communities. I am also interested in the future of the cities, such as how cities should develop and grow.
-
+<br>
 Also in my spare time I enjoy visualizing and analyzing data, learning photography skills, and tracking sports.
-
+<br>
 This blog serves mainly as a resource to myself (so I can refer to how I did something), but also aims to help others. Here I will also showcase some of my photography works and sort of travel journals and plans. Finally, there will be posts of whatever I find interesting to share (obviously!!!). And eventually some rants, though I will keep it to a minimum because we have to hustle...
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/L9VBpbnXhWk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <br>
 <hr>
 
