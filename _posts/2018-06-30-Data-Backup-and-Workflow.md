@@ -3,16 +3,17 @@ layout: post
 title: Data Management and Backup 2018
 feature-img: "assets/img/pexels/desk-nerd.jpeg"
 thumbnail: "assets/img/thumbnails/desk-nerd.jpeg"
-tags: [Test, Lorem, Ipsum]
+tags: [Blog, Photography, Workflow, Tips]
 excerpt_separator: <!--more-->
 ---
 
-Data loss is a very painful experience that unfortunately many of us go through at some point of our lives. It should not be like that!
+Data loss is a very painful experience that unfortunately many of us go through at some point of our lives. But it does not have to!
 <!--more-->
-I spend quite a bit of time advocating the need for a well-established workflow that incorporates solid backup strategies to prevent data loss. And during this process, I came across many different backup routines practiced by others, some of which I found to be downright scary. You have probably heard of horror stories of professional photographers losing their life’s work, or wedding photographers losing images of weddings that they were not able to deliver to their clients yet.
+I spend quite a bit of time learning the need for a well-established workflow that incorporates solid backup strategies to prevent data loss. And during this process, I came across many different backup routines practiced by others, some of which I found to be downright scary. You have probably heard of horror stories of professional photographers losing their life’s work, or wedding photographers losing images of weddings that they were not able to deliver to their clients yet.
 
+It is one thing when you lose your personal data / photos and totally another when you are dealing with a client who paid you money. Sadly, for many of us, it seems like data loss has to take place in order for us to seriously consider a solid backup strategy and workflow. But it does not have to! I will walk through a scenario for establishing a good backup workflow: a serious workflow for enthusiasts and professionals. For this scenario, I will reveal my own backup strategy.
 
-It is one thing when you lose your personal data / photos and totally another when you are dealing with a client who paid you money. Sadly, for many of us, it seems like data loss has to take place in order for us to seriously consider a solid backup strategy and workflow. But it does not have to! I will walk you through two scenarios for establishing a good photography backup workflow: a low-cost and painless workflow for hobbyists, and a much more serious workflow for enthusiasts and professionals. For the second scenario, I will reveal my own backup strategy.
+You will notice that it will focus on photos and have a photography workflow's point of view, but it can be easily modified for any other kind of data.
 
 ## On Backup Workflow 
 
@@ -37,15 +38,15 @@ Here are my recommendations on setting up a workflow process:
 4. Do not heavily rely on keywords and other software-based indexing criteria to reduce software dependency. If you need to reorganize or rename images, do that through software to avoid potential mismatches between the database and the file system. Software such as Lightroom performs moving and renaming of images on the file system level and automatically remaps images in the database after the completion of the process. Use the provided tools to mass-rename images when necessary.
 5. After completing the editing process, force the software to write changes to each image (this will write changes to DNG files or force the creation of sidecar / XMP files), so that you do not lose your changes if your database gets corrupted or lost.
 
-### Simple backup
+~~### Simple backup
 
-So here is the quick summary:
+~~So here is the quick summary:
 
-1. At the minimum, buy two external drives for backups
+~~1. At the minimum, buy two external drives for backups
 2. Backup to one drive on a continuous basis either using automated software tools, or manual file copy
 3. Backup to the second drive as often as you will be taking it offsite. You can rotate the two drives, but you have to make sure that you are not just doing incremental / differential backups - you have to have full backups for rotation
 
-If you follow this process, you will have your images stored in three places: your computer, an external drive connected to your computer and another external drive that is sitting in an offsite location.
+~~If you follow this process, you will have your images stored in three places: your computer, an external drive connected to your computer and another external drive that is sitting in an offsite location.
 
 ### Solid Backup Strategy: Serious Amateurs and Pros
 
@@ -89,8 +90,7 @@ To recap, here is my recommended backup process for serious amateurs, semi-pros 
 4. **Tertiary Backup Storage**: ioSafe 214 (fireproof and waterproof) with two 5 TB NAS drives in **RAID 0** configuration. Data is replicated with DS1815+ via Synology Cloud Station client.
 5. WD My Book Duo 12 TB: **two drives in rotation for off-site backup** (drop off in a PO Box). Data is replicated with DS1815+ via Synology Cloud Station client. Soon to **change to cloud backup** for convenience.
 
-
-## Data Storage Solutions
+## My Data Storage Solutions
 
 ### 0. Capture Data
 
@@ -139,30 +139,24 @@ Videos:
 ## File Structure
 
 ```bash
-Media Volume XX
-├── _draft	               # To store your drafts, they won't be published on your site
-├── _includes	               # theme includes
-├── _layouts                   # theme layouts (see below for details)
-├── _portfolio	               # collection of article to be populated in the portfolio page
-├── _posts                     # Blog posts
-├── _sass                      # Sass partials 
-├── YYYY
-|  ├── YYYY.MM.Location/Event	               # theme javascript, Katex, jquery, bootstrap, jekyll search, 
-|  |  ├── DD
-|  |  |  ├── Source
-|  |  |  |  ├── DSLR
+Media Volume XX                             # Drive Disk Root
+├── YYYY                                    # first folder division, suggested to be named by year
+|  ├── YYYY.MM.Location/Event	              # main theme or appropriate categorization of event 
+|  |  ├── DD                                # optional subdivision based on bulk content of files and ease of use
+|  |  |  ├── Source                         # another optional subdivision, suggested if multiple sources of data
+|  |  |  |  ├── DSLR                        # source of data, segregate files by kind
 |  |  |  |  |  ├── Photos
-|  |  |  |  |  |  ├── 1. RAW/Original
-|  |  |  |  |  |  ├── 2. Master
-|  |  |  |  |  |  ├── 3. Layered Master
-|  |  |  |  |  |  ├── 3.1 Panorama / HDR / Timelapse
-|  |  |  |  |  |  └── 4. Final Edits
+|  |  |  |  |  |  ├── 1. RAW/Original       # unedited, only renamed photos from source. look for file naming rules
+|  |  |  |  |  |  ├── 2. Master             # master batch edited files (common metadata and lens correction)
+|  |  |  |  |  |  ├── 3. Layered Master     # selected photos for editing and post-edition
+|  |  |  |  |  |  ├── 3.1 Panorama / HDR / Timelapse    # specific (optional) folders for special editing processes
+|  |  |  |  |  |  └── 4. Final Edits        # converted files for publishing purposes (web, LQ or print)
 |  |  |  |  |  └── Videos
-|  |  |  |  |     ├── 1. Original
-|  |  |  |  |     └── 2. Edits
+|  |  |  |  |     ├── 1. Original           # original videos from capture
+|  |  |  |  |     └── 2. Edits              # edited final videos, project files and dependencies
 |  |  |  |  ├── Drone
 |  |  |  |  |  ├── Photos
-|  |  |  |  |  |  ├── 1. Original
+|  |  |  |  |  |  ├── 1. Original           # if captured in jpg
 |  |  |  |  |  |  └── 2. Edits
 |  |  |  |  |  └── Videos
 |  |  |  |  |     ├── 1. Original
@@ -174,25 +168,17 @@ Media Volume XX
 |  |  |  |  |  └── Videos
 |  |  |  |  |     ├── 1. Original
 |  |  |  |  |     └── 2. Edits
-|  ├── YYYY.MM.Project_Name    (Photos)
+|  ├── YYYY.MM.Project_Name    (Photos)    # this structure will exist in workdrive after proper backup and photo selection, this will lessen the burden of the sheer size of full library
 |  |  ├── 2. Master
 |  |  ├── 3. Layered Master / Project_Type_Selection
 |  |  └── 4. Final Edits
 |  ├── YYYY.MM.Project_Name    (Videos)
 |  |  ├── 2. Selected_Originals
 |  |  └── 3. Final Edits
-|  ├── css                     # isolated Bootstrap, font-awesome, katex and main css
-|  ├── fonts		       # Font-Awesome, Glyphicon, and other fonts
-|  └── img		       # Images used for the template
-├── pages
-|   ├── 404.md		       # To be displayed when url is wrong
-|   ├── about.md               # About example page
-|   ├── gallery.md              # Gallery page for your photos
-|   ├── portfolio.md	         # Portfolio page for your projects
-|   ├── search.html	       # Search page
-|   └── search.json            # Specify the search target (page, post, collection)
-├── _config.yml                # sample configuration
-└── index.html                 # sample home page (blog page paginated)
+|  └── xxx		       
+├── xxx
+|   └── xxx           
+└── xxx               
 ```
 
 ### File Naming:
