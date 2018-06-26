@@ -3,7 +3,7 @@ layout: post
 title: Why I choose Jekyll for this website
 feature-img: "assets/img/pexels/desk-nerd.jpeg"
 thumbnail: "assets/img/thumbnails/desk-nerd.jpeg"
-tags: [Blog]
+tags: [Blog, Code]
 excerpt_separator: <!--more-->
 ---
 
@@ -27,4 +27,7 @@ So I made a wishlist of the things I wanted for a personal website:
 
 There are a lot of lightweight CMS options out there, but I fell for the GitHub + Jekyll toolchain. It's well known and now pretty established, and the partnership it has developed with Jekyll developers (it's based in Ruby) and its use of Markdown to separate content from markup just seemed to click with me.
 
-That's why after building my site with the help of many sources, I've finally taken it a step further and replicated the best <a href="/_includes/guide_github-pages.html" title="Creating and Hosting a Personal Site on GitHub">beginner's guide to getting started building and hosting a personal website and blog with GitHub Pages and Jekyll</a>. It is very step-by-step. It even refactors code to teach you how Jekyll templates work.
+That's why after building my site with the help of many sources, I've finally taken it a step further and replicated the [best beginner's guide](http://jmcglone.com/guides/github-pages/) to getting started building and hosting a personal website and blog with GitHub Pages and Jekyll. It is very step-by-step. It even refactors code to teach you how Jekyll templates work.
+
+<hr>
+{% include guide_github-pages.html %}
