@@ -8,6 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 This is a note about my choice of using GitHub and Jekyll for this website.
+<!--more-->
 
 When you want something simple, having a usual WordPress site often comes with a lot of other things: a web hosting plan, updating plugins, monitoring auto-updates so your site's template and functionality don't break, a MySQL database, dealing with being a target for hackers, a lot of clicking around and fussing with settings, hacking Thesis, and on and on. For a personal website that features just few pages, a CV, and maybe a place to write blog posts and link to your social media accounts and departmental web pages, WordPress is bloated. 
 
