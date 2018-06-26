@@ -4,10 +4,10 @@ title: A Personal Site on GitHub
 subtitle: Or what I learned creating this website
 feature-img: "assets/img/pexels/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
-tags: [Blog, Code]
+tags: [Blog, Code, Tips]
 ---
 
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+This is a beginner's guide to creating and hosting a personal site on GitHub using Jekyll. I acknowledge this is a full replica from a third party website. Enjoy!
 <!--more-->
 
 Everything comes from: [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
