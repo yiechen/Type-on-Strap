@@ -12,23 +12,29 @@ Everybody should have your own rating system as you watch a film or read a book.
 
 <!--more-->
 
+To be straight, I don´t actually use a single rating system, but I actually do use two systems in tandem. The first one is a more straight-forward filter system, which I named the SIREN rating. The second one is a more detailed review and focuses on artistical and technical aspects of the film and the script as well as the entertainment factors. I will explain them separately as follows...
+
 ## The SIREN System
 
-### Star / Storytelling
+The SIREN ratings was designed to have a "make it or break it" evaluation of five entertainment aspects of a film or movie series. For each category we rate if the movie "passes or fails" to satisfy yourself. This was an effort to bypass the volatility of a scaling system that grades from 1 to 10 or A-to-F, among others, that are subject to recency bias and other faults. The usual rating systems make it harder to compare the ratings given to films that were watched far apart as the criteria may have changed inbetween. So, for example, a 4 star picture I rated today may not have been graded as a 4-star two years ago.
 
-Star factor or cast ensemble + crush?
+I also made this system in a way as to help me select what would be worthwhile to keep in my collection and what could be purged from my harddrives. So the criterias were chosen with that purpose in mind. Finally, I adapted 3 criterias for the system to be also used for books, but let´s takedown each of them:
 
-### Inspiration / Ingenuity
+### Star (books: Storytelling)
 
-Plot twist or concept is original
+Known as the *Star factor*, here I acknowledge that a specific actor/actress or cast ensemble is a driving force to why I watched it and also why I should keep it. Great acting, charisma or simply a personnal crush on a specific actor is considered, and if it is memorable enough it gets a major **S**, otherwise it keeps a *s*.
 
-### Replayability / Readability
+### Inspiration (books: Ingenuity)
 
-Is it re-watchable?
+AKA the "creativity factor". Here I value strongly a good plot twist or if the concept of the script, photography or mythology is original and aspiring. Thought-provoking dialogues and themes are highly praised and valued.
+
+### Replayability (books: Readability)
+
+"Is it worth to re-watch?" The answer to this question should be enough. If it seems that once watched I would not feel atracted to espontaneously see said movie or even a hint of doubt must mean it fails this criteria.
 
 ### Entertainment
 
-Does it entertain, aka is the plot enjoyable?
+"Does it entertain, was it enjoyable?" This one is a very subjective one, but it must be easy to rate for polar opposites. For great movies it may have a well-deserved and easy pass and for terrible ones a strong failing mark. For mildly entertaining movies it may be considered in tandem with the replayability as it may shed some light on how the grade may survive the test of time. Usually a film that fails the replayability test also should fail this one, so we should not be generous with one trick ponnies.
 
 ### Notability
 
