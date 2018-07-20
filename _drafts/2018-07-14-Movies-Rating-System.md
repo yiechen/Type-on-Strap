@@ -36,9 +36,12 @@ AKA the "creativity factor". Here I value strongly a good plot twist or if the c
 
 "Does it entertain, was it enjoyable?" This one is a very subjective one, but it must be easy to rate for polar opposites. For great movies it may have a well-deserved and easy pass and for terrible ones a strong failing mark. For mildly entertaining movies it may be considered in tandem with the replayability as it may shed some light on how the grade may survive the test of time. Usually a film that fails the replayability test also should fail this one, so we should not be generous with one trick ponnies.
 
-### Notability
+### Notability / Noteworthiness (*cringe*)
 
-Instant classic or cultural reference?
+Renowned classic films which are celebrated by their outstanding contribution and as cultural reference of their time or a portrayed era should get an automatic pass. Recent films that are expected to become classics are also for a strong consideration. Films that are infamously hyped should be rated at discretion. (As a **last resort**, if you want to give an extra point to some movie that would not pass this criteria, it may serve as a bonus.) 
+
+
+
 
 ## The 10-10 System
 
