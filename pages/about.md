@@ -13,22 +13,22 @@ tags: [About, Skills]
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <a href="https://en.wikipedia.org/wiki/Project_finance"><strong>structured finance analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously worked as a <strong>data scientist/analyst</strong> and <strong>economic consultant</strong> also at BNDES.
+Currently a <a href="https://en.wikipedia.org/wiki/Project_finance"><strong>structured finance analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously worked as a <strong>data scientist/analyst</strong> and <strong>economics analyst</strong> also at BNDES.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my MSc in <strong>Quantitative Methods</strong> from the Universidade Federal Fluminense and my Bachelor of <strong>Economic Sciences</strong> from the Pontifical Catholic University of Rio de Janeiro.
+Dropped out from a MSc in <strong>Quantitative Methods</strong> from the Universidade Federal Fluminense and obtained my Bachelor of <strong>Economic Sciences</strong> from the Pontifical Catholic University of Rio de Janeiro.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I enjoy writing <strong>useful & reusable software tools</strong> to help others &mdash; check out by searching for the tag: projects</a>. In the past several years I've become an moderately-experienced R useR and an enthusiast in R-Shiny.
+I enjoy writing <strong>useful & reusable tools</strong> to help others &mdash; check out by searching for the tag: projects</a>. In the past several years I've become an moderately-experienced R useR and an enthusiast in R-Shiny.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I'm addicted to sports data, <strong>travelling</strong> at any given (and non-given) moment, getting into philosophical debates, and meeting new people :) 
+I'm mildly-addicted to sports data, <strong>travelling</strong> to broaden my perspectives, getting into philosophical debates, and meeting new people :) 
 </p>
 
 <p class="about-text">
@@ -38,7 +38,7 @@ The <strong><a href="/projects">projects</a></strong> page is a nice place to se
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-Grew up in <i>Rio de Janeiro, Brazil</i>; spent many weeks (at times) in other countries backpacking; still living in <i>Rio</i> as of 2018.
+Grew up in <i>Rio de Janeiro, Brazil</i>; spent some weeks (at times) in other countries backpacking; still living in <i>Rio</i> as of 2018.
 </p>
 
 <hr>
@@ -46,11 +46,11 @@ Grew up in <i>Rio de Janeiro, Brazil</i>; spent many weeks (at times) in other c
 <br>
 
 <p class="about-text">
-Nowadays I am attached to renewable energy projects and I am interested in how they interact with their surrounding landscape and communities. I am also interested in the future of the cities, such as how cities should develop and grow.
+Nowadays I am attached to renewable energy projects. I also have a professional interest in demographic and social-communication dynamics.
 </p>
 
 <p class="about-text">
-Also in my spare time I enjoy visualizing and analyzing data, learning photography skills, and tracking sports.
+Also in my spare time I enjoy visualizing and analyzing data, learning photography and film-editing skills, and tracking/watching sports.
 </p>
 
 <p class="about-text">
