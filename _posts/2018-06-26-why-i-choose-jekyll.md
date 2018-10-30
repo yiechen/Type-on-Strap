@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I choose Jekyll for this website
+title: Why I chose Jekyll for this website
 feature-img: "assets/img/pexels/desk-nerd.jpeg"
 thumbnail: "assets/img/thumbnails/desk-nerd.jpeg"
 tags: [Blog, Code, Tips]
