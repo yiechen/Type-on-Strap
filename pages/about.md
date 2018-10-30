@@ -18,12 +18,12 @@ Currently a <a href="https://en.wikipedia.org/wiki/Project_finance"><strong>stru
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Dropped out from a MSc in <strong>Quantitative Methods</strong> from the Universidade Federal Fluminense and obtained my Bachelor of <strong>Economic Sciences</strong> from the Pontifical Catholic University of Rio de Janeiro.
+Obtained my Bachelor of <strong>Economic Sciences</strong> from the Pontifical Catholic University of Rio de Janeiro and dropped out of a MSc in <strong>Quantitative Methods</strong> from the Universidade Federal Fluminense.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I enjoy writing <strong>useful & reusable tools</strong> to help others &mdash; check out by searching for the tag: projects</a>. In the past several years I've become an moderately-experienced R useR and an enthusiast in R-Shiny.
+I try writing <strong>useful & reusable tools</strong> to help others &mdash; check out by searching for the tag: projects</a>. In the past 2 years I've become an moderately-experienced R useR and an enthusiast in R-Shiny and RMarkdown. Nowadays I'm dabbling with Python and in the future i expect to work with D3 visualizations.
 </p>
 
 <p class="about-text">
@@ -38,7 +38,7 @@ The <strong><a href="/projects">projects</a></strong> page is a nice place to se
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-Grew up in <i>Rio de Janeiro, Brazil</i>; spent some weeks (at times) in other countries backpacking; still living in <i>Rio</i> as of 2018.
+Grew up in <i>Rio de Janeiro, Brazil</i>; spent some weeks (at times) in other countries backpacking; still living in <i>Rio</i> as of 2018. Longing to discover new places. Trying to figure out life, one place at a time.
 </p>
 
 <hr>
@@ -46,7 +46,7 @@ Grew up in <i>Rio de Janeiro, Brazil</i>; spent some weeks (at times) in other c
 <br>
 
 <p class="about-text">
-Nowadays I am attached to renewable energy projects. I also have a professional interest in demographic and social-communication dynamics.
+Nowadays I am attached to renewable energy projects (hydro and wind). I also have a professional interest in demographic and social-communication dynamics.
 </p>
 
 <p class="about-text">
