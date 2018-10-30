@@ -13,7 +13,7 @@ tags: [About, Skills]
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <a href="https://en.wikipedia.org/wiki/Project_finance"><strong>structured finance analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously worked as a <strong>data scientist/analyst</strong> and <strong>economics analyst</strong> also at BNDES.
+Currently a <a href="https://en.wikipedia.org/wiki/Project_finance"><strong>structured finance analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously worked as a <strong>data scientist/analyst</strong>, a <strong>proposal elegibility analyst</strong> and <strong>economics analyst</strong> also at BNDES.
 </p>
 
 <p class="about-text">
@@ -46,7 +46,7 @@ Grew up in <i>Rio de Janeiro, Brazil</i>; spent some weeks (at times) in other c
 <br>
 
 <p class="about-text">
-Nowadays I am attached to renewable energy projects (hydro and wind). I also have a professional interest in demographic and social-communication dynamics.
+Nowadays I work with renewable energy projects (hydro and wind). Our team evaluates loans to those projects, and we manage the  contracts and obligations until the full repayment of the debt. I also have a professional interest in demographic and social-communication dynamics.
 </p>
 
 <p class="about-text">
