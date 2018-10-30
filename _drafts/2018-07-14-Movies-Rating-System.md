@@ -50,42 +50,42 @@ Parent Trap (1998) starred by Lindsay Lohan is a guilty pleasure and scores a **
 
 ## The 10-10 System
 
-### Running time
+### Running time (E)
 
 Is the movie way too long or too short? Does it feel botched and makes you check the clock too see how much more it may take to end? Does it make you feel disinterested mid-way? Does it feel like the end or parts were rushed? Could it have a few more minutes or a few less?
 
-### The Cast
+### The Cast (E)
 
 The quality of the cast. You may call it stardom factor, or simply if the cast has a good profile of good acting. A cast full of great role-players may trumph a cast with two super-stars but terrible role-players.
 
-### Performance
+### Performance (T)
 
 The cast performance in-scene. Was the acting believable? Was there any chemistry between the characters where it should be?
 
-### Direction
+### Direction (T)
 
-The directing style and artistic view of the play. Simply the editing of the film and it´s photography.
+The directing style and artistic view of the play.  A film director controls a film's artistic and dramatic aspects and visualizes the screenplay (or script) while guiding the technical crew and actors in the fulfillment of that vision. The director has a key role in choosing the cast members, production design, and the creative aspects of filmmaking. Based on the editing of the film and it´s cinematography, managing the assets (getting inspired performances from the cast and crew). The cinematography is evaluated by the technical aspects of the images (lighting, lens choices, composition, exposure, filtration, film selection), to evaluate the artistic aesthetics that are supporting the director's vision of the story being told.
 
-### Script
+### Screenplay (T)
 
-The story. Is it interesting? Is the subject original? Are there plot holes or deus ex-machina events?
+The story and the script. Is it interesting? Is the subject original? Are there plot holes or deus ex-machina events?
 
-### Edition
+### Film Editing (T)
 
-The story-telling, quality of dialogues and scenes, and the pacing of events. Would it be better if we cut some scenes or if we changed the order of them?
+The story-telling, quality of dialogues and scenes, and the pacing of events. Would it be better if we cut some scenes or if we changed the order of them? Are there plot twists? Does it take a creative way to do usual stuff? Does it creatively work with the layers of images, story, dialogue, music, pacing, as well as the actors' performances to effectively "re-imagine" and even rewrite the film to craft a cohesive whole?
 
-### Creativity
+### Visual Production & Design (E/T)
 
-Are there plot twists? Does it take a creative way to do usual stuff?
+Evaluates the visual appearance and how it communicates visually, stimulates moods, contrasts features, and psychologically appeals to a target audience. About visual elements used, what artistic style to use, and when to use motion. The richness of locations, interiors, make-up, hairstyling , costumes and special effects (CGI).
 
-### Sound(track)
+### Sound (score/track/editing) (T/E)
 
-It says all... How does the soundscore work for the movie? Does it add or subtracts? Does it disturb or is inappropriate?
+It should say all... How does the soundscore work for the movie? Does it add or subtracts? Does it disturb or is inappropriate? How does the tracks/songs affect mood and integrate the visual and acting elements?
 
-### Job Description
+### Job Description (T/E)
 
 The real or fictional job of characters are depicted truthfully or are plausible with reality? Does it make a connection with the real conditions and ways of real workers?
 
-### The Extra Bonus Point
+### The Extra Bonus Point (T/E)
 
-Intangibles?
+Intangibles? Creativity?
