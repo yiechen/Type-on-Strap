@@ -15,52 +15,54 @@ My main focus is to have in mind what is absolutely needed for that future lifes
 
 So here is a first list for clothes (daily personal use):
 
-[ ] 8-10 crew cut T-shirts (grey)
-[ ] 3-4 long sleeved crew cut T-shirts (grey)
-[x] 3 shorts (trinity)
-[x] 4 running/sports shorts (trinity + 1 spare)
-[x] 3 jeans (trinity)
-[x] 8 short socks (7 + 1 spare)
-[x] 4 long socks (trinity + 1 spare)
-[ ] 4 merino wool socks (trinity + 1 spare)
-[ ] 4 high quality undies (trinity + 1 spare)
-[x] 8 normal undies (7 + 1 spare)
-[ ] 3 running shoes (trinity - alternate to reduce wear on memory foam)
-[ ] 1 boot/shoe (for social events)
-[x] 1 shoe (social events)
+- [ ] 8-10 crew cut T-shirts (grey)
+- [ ] 3-4 long sleeved crew cut T-shirts (grey)
+- [x] 3 shorts (trinity)
+- [x] 4 running/sports shorts (trinity + 1 spare)
+- [x] 3 jeans (trinity)
+- [x] 8 short socks (7 + 1 spare)
+- [x] 4 long socks (trinity + 1 spare)
+- [ ] 4 merino wool socks (trinity + 1 spare)
+- [ ] 4 high quality undies (trinity + 1 spare)
+- [x] 8 normal undies (7 + 1 spare)
+- [ ] 3 running shoes (trinity - alternate to reduce wear on memory foam)
+- [ ] 1 boot/shoe (for social events)
+- [x] 1 shoe (social events)
 
 A list of clothes for work:
 
-[x] 8-10 social shirts (long sleeve)
-[x] 2 short sleeve shirts
-[x] 2 black jeans
-[x] 2 black pants
-[x] 6 socks (5 + 1 spare)
-[x] 4 shoes (3 @ home + 1 @ work)
-[ ] 1 sweater
+- [x] 8-10 social shirts (long sleeve)
+- [x] 2 short sleeve shirts
+- [x] 2 black jeans
+- [x] 2 black pants
+- [x] 6 socks (5 + 1 spare)
+- [x] 4 shoes (3 @ home + 1 @ work)
+- [ ] 1 sweater
 
 List of clothes for cold weather / all-weather gear:
-[x] 1 hoodie
-[x] 1 jacket
-[ ] 2 base layer
-[x] 1 fleece
-[ ] 1 inner iso-ball
-[x] 1 waterproof shell
+
+- [x] 1 hoodie
+- [x] 1 jacket
+- [ ] 2 base layer
+- [x] 1 fleece
+- [ ] 1 inner iso-ball
+- [x] 1 waterproof shell
 
 List of personal itens:
-[ ] 1 macbook pro 15'
-[ ] 1 USB-C dongle
-[ ] 1 bluetooth headphone
-[ ] 1 sports bluetooth headphone
-[ ] 3 travelling HD/SSD storage
-[ ] 1 compact camera (Canon PowerShot G9 X Mark II or similar?)
-[ ] 1 platypod / gorillapod
-[ ] 1 iphone
-[ ] 1 powerbank
-[ ] 1 powercord
-[ ] 1 tech pouch (peak design)
-[ ] 1 necessaire (peak design)
-[ ] 1 DSLR + 4 lenses (24-70 + 20 + 35 + 85)
+
+- [ ] 1 macbook pro 15'
+- [ ] 1 USB-C dongle
+- [ ] 1 bluetooth headphone
+- [ ] 1 sports bluetooth headphone
+- [ ] 3 travelling HD/SSD storage
+- [ ] 1 compact camera (Canon PowerShot G9 X Mark II or similar?)
+- [ ] 1 platypod / gorillapod
+- [ ] 1 iphone
+- [ ] 1 powerbank
+- [ ] 1 powercord
+- [ ] 1 tech pouch (peak design)
+- [ ] 1 necessaire (peak design)
+- [ ] 1 DSLR + 4 lenses (24-70 + 20 + 35 + 85)
 
 
 Monocle ipsum dolor sit amet handsome pariatur aliqua, hub remarkable irure commodo classic deserunt bespoke. Sunt commodo signature, Swiss minim flat white Tsutaya excepteur artisanal et Nordic laborum joy ANA. Beams mollit exquisite Ginza efficient dolore qui Comme des Garçons Winkreative Lufthansa bulletin global. Iconic sed liveable duis. Mollit dolore eu laboris Comme des Garçons hub pintxos sed eiusmod tote bag Shinkansen nisi consectetur pariatur. Nordic international quis finest Baggu dolore, bureaux hub hand-crafted ut joy sint Airbus A380.
