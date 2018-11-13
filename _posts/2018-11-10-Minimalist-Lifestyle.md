@@ -1,15 +1,15 @@
 ---
-layout: single
-title:  "Minimalist Lifestyle"
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
-  - Jekyll
-tags:
-  - edge case
+layout: post
+title: Minimalist Lifestyle
+feature-img: "assets/img/pexels/desk-nerd.jpeg"
+thumbnail: "assets/img/thumbnails/desk-nerd.jpeg"
+tags: [Blog, Lifestyle, Tips]
+excerpt_separator: <!--more-->
 ---
 
 I am trying to adopt a minimalist lifestyle. While I am not able to go full minimalist right now, I feel the urge to organize myself for a transition. And that means that I must shed things...
+
+<!--more-->
 
 My main focus is to have in mind what is absolutely needed for that future lifestyle. I would like to adopt a "2 suitcases ready to go" policy for the amount of thing that I own and carry with me at all times.
 
