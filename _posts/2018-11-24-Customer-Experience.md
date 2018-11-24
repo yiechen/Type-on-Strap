@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customer Service
+title: Customer Experience
 feature-img: "assets/img/pexels/desk-nerd.jpeg"
 thumbnail: "assets/img/thumbnails/desk-nerd.jpeg"
 tags: [Blog, Lifestyle, Tips]
