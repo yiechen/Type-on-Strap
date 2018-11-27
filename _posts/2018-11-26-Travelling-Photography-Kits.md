@@ -19,19 +19,19 @@ The purpose of this kit is for a real photography oriented and focused trip, i.e
 
 Location: Iceland
 
--[x]DLSR
--[x]4-5 Lenses
--[x]Filters
--[x]Sturdy Tripod
--[x]Laptop
--[x]Platypod
--[x]Backup DSLR body
--[x]Extra batteries and memory cards
--[x]Drone (Fly More Combo)
--[x]Power cord
--[x]Cleaning kit
--[x]All-weather kit
--[x]Compact camera
+-[x] DLSR
+-[x] 4-5 Lenses
+-[x] Filters
+-[x] Sturdy Tripod
+-[x] Laptop
+-[x] Platypod
+-[x] Backup DSLR body
+-[x] Extra batteries and memory cards
+-[x] Drone (Fly More Combo)
+-[x] Power cord
+-[x] Cleaning kit
+-[x] All-weather kit
+-[x] Compact camera
 
 ## The Minimalist Backpack Vacation (Minimalist)
 
@@ -39,10 +39,10 @@ When you want to relax, travel light and eventually register some moments.
 
 Location: Family trip
 
--[x][Canon PowerShot G9 X Mark II](https://www.dpreview.com/products/canon/compacts/canon_g9xii)
--[x]Platypod/Gorillapod
--[]Extra batteries and memory cards
--[]Laptop
+-[x] Compact camera: [Canon PowerShot G9 X Mark II](https://www.dpreview.com/products/canon/compacts/canon_g9xii)
+-[x] Platypod/Gorillapod
+-[] Extra batteries and memory cards
+-[] Laptop
 
 ## The All-Purpose Kit (Light-Medium)
 
@@ -50,13 +50,13 @@ All-rounder kit, should acomplish most needs although you may have to be creativ
 
 Location: 
 
--[x]DSLR
--[x]24-70mm zoom lens (or combination of 35mm prime and 85mm prime, should packing space allow)
--[x]Wide lens (20mm)
--[x]Platypod or Gorillapod
--[x]Extra batteries and memory cards
--[]Laptop
--[]Drone and power cord
+-[x] DSLR
+-[x] 24-70mm zoom lens (or combination of 35mm prime and 85mm prime, should packing space allow)
+-[x] Wide lens (20mm)
+-[x] Platypod or Gorillapod
+-[x] Extra batteries and memory cards
+-[] Laptop
+-[] Drone and power cord
 
 ## Minimal with intent (Light-Medium)
 
@@ -65,3 +65,10 @@ Should you have a specific opportunity that poses a compromise of light packing 
 If quality is a priority (i.e. night photography with wide apertures), you will need a DSLR and a specific lens. Then pack the specific lens or the lens that proves to be the most versatile and used for most of the shots that are intended to be captured. Resist the urge to pack a second lens and/or camera body. If-else your cellphone camera must do. Also try to substitute the tripod for the platypod and be creative with mounting it off the ground (try carrying some plastic braces or mounting it over rocktops).
 
 Else, why not give the minimalist kit a try?
+
+[x] Compact camera
+[x] Stabilization device
+[x] Charger and extra battery
+[x] Memory cards
+[] Smartphone
+[] BUJO
