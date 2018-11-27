@@ -41,8 +41,8 @@ Location: Family trip
 
 - [x] Compact camera: [Canon PowerShot G9 X Mark II](https://www.dpreview.com/products/canon/compacts/canon_g9xii)
 - [x] Platypod/Gorillapod
-- [] Extra batteries and memory cards
-- [] Laptop
+- [ ] Extra batteries and memory cards
+- [ ] Laptop
 
 ## The All-Purpose Kit (Light-Medium)
 
@@ -55,8 +55,8 @@ Location:
 - [x] Wide lens (20mm)
 - [x] Platypod or Gorillapod
 - [x] Extra batteries and memory cards
-- [] Laptop
-- [] Drone and power cord
+- [ ] Laptop
+- [ ] Drone and power cord
 
 ## Minimal with intent (Light-Medium)
 
@@ -70,5 +70,5 @@ Else, why not give the minimalist kit a try?
 2. [x] Stabilization device
 3. [x] Charger and extra battery
 4. [x] Memory cards
-5. [] Smartphone
-6. [] BUJO
+5. [ ] Smartphone
+6. [ ] BUJO
