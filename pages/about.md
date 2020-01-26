@@ -13,17 +13,17 @@ tags: [About, Skills]
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently a <a href="https://www.investopedia.com/articles/financialcareers/06/financialanalyst.asp"><strong>Financial Analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>. Previously had experience as a <strong>data scientist and analyst</strong> and as a <strong>technology-and-markets research analyst</strong> also at BNDES.
+Currently a <a href="https://www.investopedia.com/articles/financialcareers/06/financialanalyst.asp"><strong>Financial Analyst</strong></a> at <a href="https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en" target="_blank">BNDES</a>.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my Bachelor of <strong>Economic Sciences</strong> from the Pontifical Catholic University of Rio de Janeiro and dropped out of a MSc in <strong>Quantitative Methods and Industrial Organization</strong> from the Universidade Federal Fluminense.
+Obtained my Bachelor of <strong>Economic Sciences</strong> in 2005 and dropped out of a MSc in <strong>Quantitative Methods and Industrial Organization</strong> in 2009.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I try writing <strong>useful & reusable tools</strong> to help others &mdash; check out by searching for the tag: <a href="/projects">projects</a>. In the past 2 years I've become an moderately-experienced R useR and an enthusiast in R-Shiny and RMarkdown. Nowadays I'm dabbling with Python and in the future i expect to be able to make D3 visualizations.
+I try writing <strong>useful & reusable tools</strong> to help me and hopefully others &mdash; check out by searching for the tag: <a href="/projects">projects</a>. In past I've become an moderately-experienced R useR and an enthusiast in R-Shiny and RMarkdown. Nowadays I'm dabbling with Python and in the future i expect to be able to make D3 visualizations.
 </p>
 
 <p class="about-text">
@@ -38,7 +38,7 @@ The <strong><a href="/projects">projects</a></strong> page is a nice place to se
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-Grew up in <i>Rio de Janeiro, Brazil</i>; began travelling late; trying to spend more time in other countries and places; still living in <i>Rio</i> as of 2019. Longing to discover new places. Trying to figure out life, one place at a time.
+Grew up in <i>Rio de Janeiro, Brazil</i>; began travelling late; trying to spend more time in other countries and places; still living in <i>Rio</i> as of 2020. Longing to discover new places. Trying to figure out life, one place at a time.
 </p>
 
 <hr>
@@ -46,7 +46,7 @@ Grew up in <i>Rio de Janeiro, Brazil</i>; began travelling late; trying to spend
 <br>
 
 <p class="about-text">
-Nowadays I work with renewable energy projects (hydro and wind). Even though I may post something related to the energy sector, I won't be posting about work.
+Nowadays I work with renewable energy projects. I won't be posting about work.
 </p>
 
 <p class="about-text">
@@ -54,7 +54,7 @@ In my spare time I enjoy visualizing and analyzing data, learning photography an
 </p>
 
 <p class="about-text">
-This blog serves mainly as a resource to myself (so I can refer to how I did something), but it also should be able to help others. Here I will also showcase some of my photographical works and some sort of travel journals and plans. Finally, there will be posts of whatever I find interesting to share (obviously!!!). And eventually some rants, though I will keep it to a minimum because we have to hustle...
+This blog serves mainly as a resource to myself (so I can refer to how I did something), but it also should be able to help others. Here I will also try to showcase some of my photography works and share some sort of travel journals and plans. Finally, there will be posts of whatever I find interesting (obviously!!!). And eventually some rants, though I will keep it to a minimum because we have to hustle...
 </p>
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/L9VBpbnXhWk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
